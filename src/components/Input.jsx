@@ -15,7 +15,7 @@ export default function Input({onChangeInput, input}) {
         </div>
         <div className="input-group">
           <p>
-            <label>annualInvestment</label>
+            <label>Annual Investment</label>
             <input
               type="number"
               required
